@@ -147,6 +147,7 @@ app.put("/api/teachers/:id", async (req, res) => {
       if (teacher.id == id) {
         found = true;
         return {
+          isSelected: teacher.isSelected,
           name,
           subject,
           photo,
