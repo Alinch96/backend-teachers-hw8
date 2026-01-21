@@ -1,51 +1,58 @@
 [
-  {
-    "id": "7",
-    "name": "Марія Кузнєцова",
-    "subject": "Економіка",
-    "isSelected": true,
-    "photo": "https://cdn-icons-png.flaticon.com/512/168/168722.png"
-  },
-  {
-    "id": "1",
-    "name": "Олена Коваль1",
-    "subject": "Математика",
-    "photo": "https://cdn-icons-png.flaticon.com/512/168/168723.png",
-    "isSelected": true
-  },
-  {
-    "id": "2",
-    "name": "Іван Петренко",
-    "subject": "Фізика",
-    "photo": "https://cdn-icons-png.flaticon.com/512/168/168724.png",
-    "isSelected": true
-  },
-  {
-    "id": "3",
-    "name": "Наталія Сидорова",
-    "subject": "Історія",
-    "photo": "https://cdn-icons-png.flaticon.com/512/168/168725.png",
-    "isSelected": false
-  },
-  {
-    "id": "4",
-    "name": "Марина Савченко",
-    "subject": "Хімія",
-    "photo": "https://cdn-icons-png.flaticon.com/512/168/168722.png",
-    "isSelected": false
-  },
-  {
-    "id": "5",
-    "name": "Олександр Гончаренко",
-    "subject": "Біологія",
-    "photo": "https://cdn-icons-png.flaticon.com/512/168/168726.png",
-    "isSelected": false
-  },
-  {
-    "id": "6",
-    "name": "Ірина Литвиненко",
-    "subject": "Географія",
-    "photo": "https://cdn-icons-png.flaticon.com/512/168/168727.png",
-    "isSelected": false
-  }
+    {
+        "id": "8",
+        "name": "Петро Калина",
+        "subject": "Музика",
+        "isSelected": false,
+        "photo": "https://cdn-icons-png.flaticon.com/512/168/168731.png"
+    },
+    {
+        "id": "7",
+        "name": "Марія Кузнєцова",
+        "subject": "Економіка",
+        "isSelected": true,
+        "photo": "https://cdn-icons-png.flaticon.com/512/168/168722.png"
+    },
+    {
+        "id": "1",
+        "name": "Олена Коваль",
+        "subject": "Математика",
+        "photo": "https://cdn-icons-png.flaticon.com/512/168/168728.png",
+        "isSelected": true
+    },
+    {
+        "id": "2",
+        "name": "Іван Петренко",
+        "subject": "Фізика",
+        "photo": "https://cdn-icons-png.flaticon.com/512/168/168724.png",
+        "isSelected": false
+    },
+    {
+        "id": "3",
+        "name": "Наталія Сидорова",
+        "subject": "Історія",
+        "photo": "https://cdn-icons-png.flaticon.com/512/168/168725.png",
+        "isSelected": false
+    },
+    {
+        "id": "4",
+        "name": "Марина Савченко",
+        "subject": "Хімія",
+        "photo": "https://cdn-icons-png.flaticon.com/512/168/168729.png",
+        "isSelected": false
+    },
+    {
+        "id": "5",
+        "name": "Олександр Гончаренко",
+        "subject": "Біологія",
+        "photo": "https://cdn-icons-png.flaticon.com/512/168/168726.png",
+        "isSelected": false
+    },
+    {
+        "id": "6",
+        "name": "Ірина Литвиненко",
+        "subject": "Географія",
+        "photo": "https://cdn-icons-png.flaticon.com/512/168/168727.png",
+        "isSelected": false
+    }
 ]
