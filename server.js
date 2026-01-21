@@ -144,9 +144,10 @@ app.put("/api/teachers/:id", async (req, res) => {
     let teachers = await readTeachersFromFile();
     let found = false;
     teachers = teachers.map((teacher) => {
-      if (teacher.id == id) {
+      if (teacher.id === id) {
         found = true;
         return {
+          id: teacher.id,
           isSelected: teacher.isSelected,
           name,
           subject,
